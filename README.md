@@ -156,7 +156,6 @@ This project is inspired by the need to analyze pizza sales data to gain busines
 Special thanks to the MySQL documentation for the comprehensive SQL reference.
 
 
-This README provides an overview of the project, including the database schema, the purpose of each query, and instructions on how to set up and run the queries. You can customize it further based on your specific needs and details.
 
 
 
